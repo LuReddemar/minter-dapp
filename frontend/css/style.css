@@ -10,9 +10,9 @@
   --font-code: "Ruslan Display", monospace;
   --bg-color: #000000;
   --bg-color-transparent: #00163f80;
-  --font-color: #0add08;
-  --btn-bg-color: #ff028d;
-  --accent-color: #ffffff;
+  --font-color: #7A7A7A8;
+  --btn-bg-color: #0ADD08;
+  --accent-color: #ff028d;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
