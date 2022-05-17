@@ -11,11 +11,10 @@
   --bg-color: #000000;
   --bg-color-transparent: #00163f80;
   --font-color: #7A7A7A;
-  --btn-bg-color: #0ADD08;
-  --accent-color: #FFFFFF;
-  --akzent-color: #0ADD08;
-  --header-shadow: var(--akzent-color) 0px 0px 5px;
-  --card-shadow: var(--akzent-color) 0px 0px 20px;
+  --btn-bg-color: #FFFFFF;
+  --accent-color: #0add08;
+  --header-shadow: var(--accent-color) 0px 0px 5px;
+  --card-shadow: var(--accent-color) 0px 0px 20px;
 }
 
 * {
