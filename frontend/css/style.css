@@ -1,13 +1,13 @@
 /* FONTS */
 
-@import url("https://fonts.googleapis.com/css2?family=Ruslan+Display&family=Shadows+Into+Light&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Shadows+Into+Light&family=Special+Elite&display=swap");
 
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "Ruslan Display", sans-serif;
-  --font-secondary: "Ruslan Display", serif;
-  --font-code: "Ruslan Display", monospace;
+  --font-primary: "Special El", sans-serif;
+  --font-secondary: "Special Elite", serif;
+  --font-code: "Special Elite", monospace;
   --bg-color: #000000;
   --bg-color-transparent: #00163f80;
   --font-color: #7A7A7A;
