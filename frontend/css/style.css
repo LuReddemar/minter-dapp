@@ -1,11 +1,11 @@
 /* FONTS */
 
-@import url("https://fonts.googleapis.com/css2?family=Shadows+Into+Light&family=Special+Elite&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Special+Elite&display=swap");
 
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "Special El", sans-serif;
+  --font-primary: "Special Elite", sans-serif;
   --font-secondary: "Special Elite", serif;
   --font-code: "Special Elite", monospace;
   --bg-color: #000000;
